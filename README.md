@@ -1,16 +1,10 @@
-# outcaster
+# setting_ui_cupertino_and_material
 
 A new Flutter project.
 
-## Getting Started
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191747748-27ed8b82-7c4e-43fe-b175-9a6596529329.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Sample Vidio
+https://user-images.githubusercontent.com/108392662/196749404-87b71f85-c6f2-4d73-bd68-49ef1e59e1c9.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
